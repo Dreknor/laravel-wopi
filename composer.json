@@ -1,12 +1,11 @@
 {
-    "name": "nagi/laravel-wopi",
+    "name": "dreknor/laravel-wopi",
     "description": "Wopi implementation in php Laravel",
     "keywords": [
-        "nagi",
         "laravel",
         "laravel-wopi"
     ],
-    "homepage": "https://github.com/nagi/laravel-wopi",
+    "homepage": "https://github.com/dreknor/laravel-wopi",
     "license": "MIT",
     "authors": [
         {
